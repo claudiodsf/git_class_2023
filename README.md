@@ -10,3 +10,5 @@ This is an exercise for the 2023 Git Class.
 Another line
 
 I really like the GitHub interface 😀
+
+I could add lines to this file all day long...
