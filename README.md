@@ -11,4 +11,8 @@ Another line
 
 I really like the GitHub interface 😀
 
+<<<<<<< HEAD
 I could add lines to this file all day long...
+=======
+This is a local edit
+>>>>>>> d7e9518 (Local modification to README)
